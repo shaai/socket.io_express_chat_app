@@ -7,4 +7,5 @@ To run this application:
   1) Make sure Node.JS is installed: http://nodejs.org
   2) Install express
      npm install --save express@4.10.2
-  3)Open your browser and point it to http://localhost:3000
+  3) in terminal run node index.js
+  4)Open your browser and point it to http://localhost:3000
