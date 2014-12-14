@@ -11,8 +11,8 @@ To run this application:
   2. Install express
      ```npm install --save express@4.10.2```
 
-  3. In terminal run `node index.js`
+  3. Install socket.io via terminal `npm install --save socket.io`
 
-  4. Open your browser and point it to http://localhost:3000
+  4. In terminal run `node index.js`
 
-  5. Install socket.io via terminal `npm install --save socket.io`
+  5. Open your browser and go to http://localhost:3000
