@@ -14,3 +14,5 @@ To run this application:
   3. In terminal run `node index.js`
 
   4. Open your browser and point it to http://localhost:3000
+
+  5. Install socket.io via terminal `npm install --save socket.io`
